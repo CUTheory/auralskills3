@@ -40,4 +40,3 @@ Following are general guidelines for letter grades:
 - C: Student is ready to proceed to next unit/semester, but only after review or correction of some of the material.  
 - D: Student demonstrates significant lack of understanding/mastery, and will not likely be able to proceed successfully to next unit/semester without substantial review or repeating the course.  
 - F: Student made no significant attempt to master this material.
-

@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://CUTheory.github.com/theory3
-title: Semester III Theory
+url: http://CUTheory.github.com/auralskills3
+title: Semester III Aurak Skills
 subtitle: Section I, University of Colorado–Boulder, College of Music
 author: Kris Shaffer
 simple_search: http://google.com/search
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /theory3/atom.xml
+subscribe_rss: /auralskills3/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email: kris.shaffer@colorado.edu
@@ -26,10 +26,10 @@ email: kris.shaffer@colorado.edu
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /theory3
+root: /auralskills3
 permalink: /:year/:month/:title/
 source: source
-destination: public/theory3
+destination: public/auralskills3
 plugins: plugins
 code_dir: downloads/code
 category_dir: categories
