@@ -37,7 +37,7 @@ At the end of each unit will be one or two scheduled *summative assessments*, an
 
 In general, I will not "grade" these assessments. Where appropriate, I will provide you with the "answer" (for example, the score I played from during a dictation exam), and it is your responsibility to evaluate yourself and reflect on the fluency you demonstrated, as you write your self-evaluation.
 
-Students not satisfied with the standard reached on a performance or transcription assessment will be allowed *one* reassessment opportunity. In order to be allowed a reassessment, the student must submit the relevant self-evaluation and make arrangements for the reassessment *no more than seven days after the original attempt*. The reassessment must be completed *no more than 14 days from the original attempt* to be accepted. 
+Students not satisfied with the standard reached on a performance asessment (sight-singing only, not prepared performance) will be allowed *one* reassessment opportunity. In order to be allowed a reassessment, the student must submit the relevant self-evaluation and make arrangements for the reassessment *no more than 48 hours after the original attempt*. The reassessment must be completed *no more than seven days from the original attempt* to be accepted. Any other deadline extensions will be rare, and only considered when submitted *in writing, in advance of the deadline*.
 
 N.B.: Keep in mind that grades will be determined according to fluency in each conceptual area, *not* directly according to these assessments. Each conceptual area will be relevant for (at least) three summative assessments (and other assignments), and most assessments will cover more than one conceptual area.
 
@@ -46,6 +46,14 @@ N.B.: Keep in mind that grades will be determined according to fluency in each c
 
 Exam dates and project deadlines for each unit will be announced well in advance. These deadlines are firm. Only work completed before a unit or reassessment deadline will be accepted as evidence in favor of the grade you propose in your self-evaluations. (See course policies document for exceptions.)
 
+Preliminary deadline schedule (subject to change):
+
+- Unit I: Meeting 5 (Sept. 11)  
+- Unit II: Meeting 11 (Oct. 2)  
+- Unit III: Meeting 18 (Oct. 28)  
+- Unit IV: Meeting 24 (Nov. 18)  
+- Unit V: Finals week
+
 # Final exam #
 
-Details will come later in the semester. 
+The final exam slot will be used for the Unit V assessment (harmonic dictation). We will not use the entire 2.5 hours. 
