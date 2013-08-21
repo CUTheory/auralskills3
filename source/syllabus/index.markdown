@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-date: 2013-08-08 19:50
+date: 2013-08-21 08:50
 comments: true
 sharing: true
 footer: true
@@ -23,7 +23,7 @@ Course website: [cutheory.github.io/auralskills3](http://cutheory.github.io/aura
 
 The goal of this course is *musical fluency*: that is, the successful depositing of musical information into readily-accessible long-term memory, and the successful cognitive assimilation of musical concepts and structures. 
 
-We will seek fluency in the following conceptual areas (which will serve as assessment criteria):
+We will seek fluency in the following conceptual areas and skills (which will serve as assessment criteria):
 
 - Standard rhythms in simple and compound meters (to the subdivision level; Kazez, Unit I)
 - Irregular division of the beat in simple and compound meters (Kazez, Unit II)  
@@ -32,6 +32,9 @@ We will seek fluency in the following conceptual areas (which will serve as asse
 - Modulation to closely related keys in tonal melodies  
 - Functional diatonicism in tonal harmonic progressions
 - Functional chromaticism in tonal harmonic progressions  
+- Sight-singing  
+- Transcription  
+- Dictation  
 - Professionalism
 
 That fluency will be practiced and/or assessed through the following tasks:
@@ -60,7 +63,7 @@ See courswork document for information on end-of-unit assessments.
 ### Required ###
 
 - A free Google account (for maintaining self-evaluations on Google Drive)—if you already have a Gmail address, you already have this.  
-- A free account to [Twitter](http://www.twitter.com).  
+- A free account to [Piazza](http://www.piazza.com).  
 - A web-enabled device that can be brought to each class meeting (laptop, tablet, smartphone, web-friendly eReader, iPod Touch, etc.).  
 - An account for [Spotify](http://www.spotify.com) (a free account should be sufficient for this course).  
 - [Kazez, Daniel. *Rhythm Reading*, 2nd ed. New York: W. W. Norton & Company, Inc., 1997.](http://openlibrary.org/books/OL22213819M/Rhythm_reading)  
