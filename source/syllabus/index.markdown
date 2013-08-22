@@ -32,7 +32,7 @@ We will seek fluency in the following conceptual areas and skills (which will se
 - Modulation to closely related keys in tonal melodies  
 - Functional diatonicism in tonal harmonic progressions
 - Functional chromaticism in tonal harmonic progressions  
-- Sight-singing  
+- Performance  
 - Transcription  
 - Dictation  
 - Professionalism
