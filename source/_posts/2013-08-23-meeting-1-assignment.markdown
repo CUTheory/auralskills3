@@ -12,4 +12,6 @@ Record video of [portfolio exercises 1 & 2]({{ root_url }}/units/2121-unit1-rhyt
 
 Section 3 (Kris Shaffer) students, also make a 1–2 minute video introducing yourself: Who are you? Where are you from? What are your goals? (in life, and in this class) This will help me get to know you better.
 
+A 1-minute video domonstrating uploading and sharing files on Google Drive can be found [here](http://kris.shaffermusic.com/musicianship/GDrive.html).
+
 All students, please make use of Piazza if you have any questions about the course, the syllabus, the policies, the homework, or the technology. It is a great tool for building community outside of class, even between the five sections of this course.
