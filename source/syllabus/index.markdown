@@ -7,20 +7,6 @@ sharing: true
 footer: true
 ---
 
-# General course description #
-
-Course title: Semester 3 Aural Skills  
-Course number: MUSC 2121  
-Semester: Fall 2013  
-Course hashtag: #musc2121  
-Meeting time: MW 10:00am–10:50am  
-Meeting location: MUS C125  
-Instructor: [Kris Shaffer, Ph.D.](http://twitter.com/krisshaffer)  
-Office: MUS N138  
-Office hours: MW, 1–3pm  
-Course website: [cutheory.github.io/auralskills3](http://cutheory.github.io/auralskills3/)  
-
-
 # Musical concepts and fluency #
 
 The goal of this course is *musical fluency*: that is, the successful depositing of musical information into readily-accessible long-term memory, and the successful cognitive assimilation of musical concepts and structures. 
@@ -70,7 +56,7 @@ See courswork document for information on end-of-unit assessments.
 - An account for [Spotify](http://www.spotify.com) (a free account should be sufficient for this course).  
 - [Kazez, Daniel. *Rhythm Reading*, 2nd ed. New York: W. W. Norton & Company, Inc., 1997.](http://openlibrary.org/books/OL22213819M/Rhythm_reading)  
 - [Berkowitz, Sol et al. *A New Approach to Sight Singing*. New York: W.W. Norton, 2011.](http://openlibrary.org/works/OL16010686W/A_new_approach_to_sight_singing)  
-- A semester account for [Learning Catalytics](http://www.learningcatalytics.com).  
+- *Shaffer section only:* A semester account for [Learning Catalytics](http://www.learningcatalytics.com).  
 
 All other required class materials will be posted or linked to on the course website.
 

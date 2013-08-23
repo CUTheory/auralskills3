@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "For Monday, August 26 (first meeting)"
+title: For Meeting 1 (Aug. 26/27)
 date: 2013-08-22 11:06
 comments: true
 categories: 
@@ -12,7 +12,7 @@ Before our first meeting, please read the [syllabus][syl], [assessment][assess],
 
 Also, please bring a web-enabled device to class—such as a smartphone, tablet, or laptop—and your copy of Kazez, *Rhythm Reading*. 
 
-I look forward to meeting all of you on Monday!
+I (Kris Shaffer) and the TAs look forward to meeting all of you soon!
 
 
 [syl]: {{ root_url }}/syllabus/
