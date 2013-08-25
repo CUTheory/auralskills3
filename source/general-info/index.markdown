@@ -22,7 +22,7 @@ Meeting time: MW 10:00am–10:50am
 Meeting location: MUS N180D  
 Instructor: Chelsea Wright  
 Email: [chelsea.wright@colorado.edu](mailto:chelsea.wright@colorado.edu)  
-Office:   
+Office: N114  
 Office hours:   
 
 # Section 2 (Chelsea Wright) #
@@ -31,7 +31,7 @@ Meeting time: MW 8:00am–8:50am
 Meeting location: MUS B1B59  
 Instructor: Chelsea Wright  
 Email: [chelsea.wright@colorado.edu](mailto:chelsea.wright@colorado.edu)  
-Office:   
+Office: N114  
 Office hours:   
 
 # Section 3 (Kris Shaffer) #
