@@ -45,7 +45,7 @@ Introductory matters; review of Kazez, Chapters 7–8.
 
 **Meeting 2 (Aug. 28/29):**  
 Performance practice based on video submissions; introduction to metrical borrowing (duplets and triplets).  
-*Assignment*: Record video of portfolio exercises 3–5 with a partner and submit to instructor via Google Drive by 8am the day before Meeting 2.
+*Assignment*: Record video of portfolio exercises 3–5 with a partner and submit to instructor via Google Drive by 8am the day before Meeting 3.
 
 **Meeting 2a (Sept. 3):**  
 At the prerogative of the instructor. (This is an extra meeting, as MW sections do not meet on Labor Day.)
