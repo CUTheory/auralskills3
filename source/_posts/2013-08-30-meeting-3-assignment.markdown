@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meeting 3 assignment"
-date: 2013-08-30 13:59
+date: 2013-09-03 19:59
 comments: true
 categories: 
 ---
