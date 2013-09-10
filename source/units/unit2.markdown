@@ -15,12 +15,12 @@ The goal for this unit is to promote musical fluency in the areas of rhythm and 
 
 Essential to developing fluency in melody is training oneself to perform complicated melodies with minimal or no mistakes. This process leads to a development of good practice habits, as well as an internalization of complex melodic figures that will assist in musical tasks like sight-reading, aural recognition, and performance of musical literature that include those rhythmic figures.
 
-To that end, each student will assemble a portfolio for Unit II including video performances of the following works:
+To that end, each student will assemble a portfolio for Unit II including video performances of the following movements from [Die schöne Müllerin](http://imslp.org/wiki/Special:ImagefromIndex/03233):
 
-- link to IMSLP  
-- link to IMSLP  
+- Der Neugierige  
+- Der Müller und der Bach  
 
-In your video performances, strive for perfection. You can use as many takes *of complete songs* as you like to get the songs as close to flawless as possible. If you are a pianist, you are welcome to play along with your singing. Others may also play the bass line along with their sung melody. However, no piano performance is required. If you are capable of singing and playing simultaneously, it may aid your ability to stay on pitch, especially when modulating, as well as to assist your internalization of the musical contexts in which the melodic features we are covering tend to appear.
+In your video performances, strive for perfection. You can use as many takes *of complete songs* as you like to get the songs as close to flawless as possible, and you can sing in any key that is comfortable for your range. If you are a pianist, you are welcome to play along with your singing. Others may also play the bass line along with their sung melody. However, no piano performance is required. If you are capable of singing and playing simultaneously, it may aid your ability to stay on pitch, especially when modulating, as well as to assist your internalization of the musical contexts in which the melodic features we are covering tend to appear.
 
 When you make your videos, please encode them in a Quicktime-friendly format (.mov, .m4v, etc.) and share them with your instructor on Google Drive.
 
