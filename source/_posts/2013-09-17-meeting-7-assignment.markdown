@@ -13,6 +13,6 @@ Log in to [Learning Catalytics](http://learningcatalytics.com) (purchase a semes
 *Before meeting 8 (Sept. 23/24), ALL STUDENTS:*
 
 - Respond to at least 6 examples listed by your classmates in the collaborative playlists on Piazza. If their example is correct, say so. If not, offer a respectful correction, adding the example to another playlist if necessary.  
-- Begin practicing your first prepared song ("Die Neugerige", from *Die schöne Müllerin*). A video atempt will be due the day after Meeting 8 (Sept. 25/26), so make use of the weekend to prepare well.
+- Begin practicing your first prepared song ("Die Neugerige", from *Die schöne Müllerin*). A video atempt *of page 1* will be due the day after Meeting 8 (Sept. 25/26), so make use of the weekend to prepare well.
 
 Be sure to bring your copy of *Die schöne Müllerin* to class, as well as any other materials your instructor has required (none for Shaffer).
