@@ -15,7 +15,7 @@ The goal for this unit is to promote musical fluency in the areas of rhythm, mel
 
 Essential to developing fluency in melody is training oneself to perform complicated melodies with minimal or no mistakes. This process leads to a development of good practice habits, as well as an internalization of complex musical figures that will assist in musical tasks like sight-reading, aural recognition, and performance of musical literature that include those figures.
 
-To that end, each student will assemble a portfolio for Unit III including video performances of six keyboard-style harmonic progressions ([download score]({{ root_url }}/media/Unit3-keyboardStyle-chromatic.pdf)).  
+To that end, each student will assemble a portfolio for Unit III including video performances of six keyboard-style harmonic progressions ([download score]({{ root_url }}/media/Unit3-keyboardStyle-chromatic.pdf) | [additional practice materials]({{ root_url }}/media/KBschemata-chromatic.pdf)).  
 
 In your video performances, strive for perfection. You can use as many takes as you like to get each individual excerpt as close to flawless as possible. 
 
