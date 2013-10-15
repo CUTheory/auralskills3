@@ -37,9 +37,9 @@ In groups of 2–3 students, you will transcribe all vocal parts, the bass guita
 - "The Tourist," Radiohead  
 - "Vale of Tears," Jay Clifford
 
-Please use the recordings on [this Spotify playlist](http://open.spotify.com/user/kris.shaffer/playlist/2Z8KaGzvr7vdHcCf26vCmA) (except for Hey Jude, which is not available on Spotify; use the standard Beatles recording, not a cover or live version). Only one group per section may transcribe the same song. 
+Please use the recordings on [this Spotify playlist](http://open.spotify.com/user/kris.shaffer/playlist/2Z8KaGzvr7vdHcCf26vCmA). Only one group per section may transcribe the same song. 
 
-<iframe src="https://embed.spotify.com/?uri=spotify:user:kris.shaffer:playlist:2Z8KaGzvr7vdHcCf26vCmA" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:user:kris.shaffer:playlist:2Z8KaGzvr7vdHcCf26vCmA" width="300" height="380" frameborder="0" allowtransparency="true"></iframe> 
 
 Your transcriptions should be done in music notation software, and submitted as a PDF to your instructor. (Be sure that the names of all group members are on the score and/or in the file name.) In addition to correct pitch and rhythm material for each part transcribed, place a Roman-numeral analysis under the bass part, reflecting all modulations and all chromatic chords (secondary/applied dominants, Neapolitan and augmented sixth chords, etc.).
 
