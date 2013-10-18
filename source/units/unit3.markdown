@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unit II&#58; Rhythm recognition and melodic performance
+title: Unit III&#58; Rhythm recognition and melodic performance
 date: 2013-08-20 10:50
 comments: true
 sharing: true
