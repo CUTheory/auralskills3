@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Prep for Nov. 11/12"
+date: 2013-11-05 13:33
+comments: true
+categories: 
+---
+
+For Monday's/Tuesday's class, read the new resource on [protonotation](http://kris.shaffermusic.com/musicianship/protonotation.html). Then find an 8–12 measure passage of music that 1) has a non-standard bottom number (simple meter with something other than 4, or compound meter with something other than 8) and 2) contains chromatic syllables without modulating. Rewrite that melody in protonotation and bring both the original and the protonotation transcription to class.
